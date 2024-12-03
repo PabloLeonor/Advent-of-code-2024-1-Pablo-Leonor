@@ -1,3 +1,7 @@
+/**
+AdventOfCode1ByPabloLeonor © 2024 by Pablo Leonor is licensed under Creative Commons Attribution 4.0 International 
+**/
+
 package adventOfCode1;
 
 import java.io.BufferedReader;
